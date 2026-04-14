@@ -1,0 +1,14 @@
+C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\bin\Debug\net10.0\proyecto01.exe
+C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\bin\Debug\net10.0\proyecto01.deps.json
+C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\bin\Debug\net10.0\proyecto01.runtimeconfig.json
+C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\bin\Debug\net10.0\proyecto01.dll
+C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\bin\Debug\net10.0\proyecto01.pdb
+C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\obj\Debug\net10.0\proyecto01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\obj\Debug\net10.0\proyecto01.AssemblyInfoInputs.cache
+C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\obj\Debug\net10.0\proyecto01.AssemblyInfo.cs
+C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\obj\Debug\net10.0\proyecto01.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\obj\Debug\net10.0\proyecto01.dll
+C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\obj\Debug\net10.0\refint\proyecto01.dll
+C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\obj\Debug\net10.0\proyecto01.pdb
+C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\obj\Debug\net10.0\proyecto01.genruntimeconfig.cache
+C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\obj\Debug\net10.0\ref\proyecto01.dll
