@@ -12,3 +12,4 @@ C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II
 C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\obj\Debug\net10.0\proyecto01.pdb
 C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\obj\Debug\net10.0\proyecto01.genruntimeconfig.cache
 C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\obj\Debug\net10.0\ref\proyecto01.dll
+C:\Users\Fran\Documents\Tecnicatura Programacion\2026_1er-cuatri\Programacion-II\clase04\proyecto01\obj\Debug\net10.0\proyecto01.sourcelink.json
