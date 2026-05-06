@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="celulares" version="4">
+  <OBJECT>
+    <ID name="celulares" mc="Standard.Package" uid="533cde06-91e1-4a9f-bb1f-221a2db24038"/>
+    <PID name="celulares" mc="Standard.Project" uid="b4529167-09a7-4101-8c7d-154c9eeca013"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[celulares]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Celular" mc="Standard.Class" uid="c9baecf3-bd51-4047-aaab-4b6592cda99c"/>
+        <COMPID name="Bateria" mc="Standard.Class" uid="9986a474-6994-40a9-ba7a-f49403306049"/>
+        <COMPID name="Motorola" mc="Standard.Class" uid="41c931e9-f8ee-4860-83c6-78ee34976583"/>
+        <COMPID name="Iphone" mc="Standard.Class" uid="f99b144e-1157-49fa-930c-f6a2c9568532"/>
+        <COMPID name="Personas" mc="Standard.Class" uid="03553f90-0f89-43f8-a29c-fef3dd97269a"/>
+        <COMPID name="Usuario" mc="Standard.Class" uid="20bdf455-cd8a-4e67-b5a0-7acd5d4c9ac1"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="celulares Class diagram" mc="Standard.ClassDiagram" uid="cb273395-110e-4fe4-a947-ee5172504731"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
