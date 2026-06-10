@@ -1,0 +1,38 @@
+# 1. Crear carpeta raíz
+mkdir ConsoleSolution
+cd ConsoleSolution
+
+# 2. Crear la solución
+dotnet new sln --name ConsoleSolution
+
+# 3. Crear la aplicación de consola
+dotnet new console --name ConsoleApp --output src/ConsoleApp --framework net10.0
+
+# 4. Agregar el proyecto a la solución
+dotnet sln add src/ConsoleApp/ConsoleApp.csproj
+
+# 5. Verificar estructura
+tree /F   # Windows
+# o
+ls -R     # Linux/macOS
+
+-- COMPILAR Y EJECUTAR
+
+# Compilar toda la solución
+dotnet build
+
+# Ejecutar la aplicación
+dotnet run --project src/ConsoleApp/ConsoleApp.csproj
+
+# O desde la carpeta del proyecto
+cd src/ConsoleApp
+
+--AGREGAR MULTIPLES PROYECTOS A LA SOLUCION
+
+# Agregar un proyecto de biblioteca de clases (desde la carpeta de la solución)
+cd ../..
+dotnet new classlib --name ConsoleLibrary --output src/ConsoleLibrary --framework net10.0
+dotnet sln add src/ConsoleLibrary/ConsoleLibrary.csproj
+
+# Agregar referencia de la biblioteca a la consola
+dotnet add src/ConsoleApp/ConsoleApp.csproj reference src/ConsoleLibrary/ConsoleLibrary.csproj
